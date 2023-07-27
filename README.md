@@ -5,7 +5,7 @@ A starter discord bot that serves as a starter project to help me with my workfl
 ### Important Notes!
 ***
 Rename `default.env` to `.env`  
-```
+```bash
 default.env ➡️ .env
 ```
 Include your node modules in `build.sh`  
