@@ -9,7 +9,7 @@ Rename `default.env` to `.env`
 default.env ➡️ .env
 ```
 Include your node modules in `build.sh`  
-```sh
+```bash
 npm init -y
 npm i discord.js
 npm i dotenv
