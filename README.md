@@ -8,14 +8,6 @@ Rename `default.env` to `.env`
 ```bash
 ren default.env .env
 ```
-Include your node modules in `build.sh`  
-```bash
-npm init -y
-npm i discord.js
-npm i dotenv
-...
-npm i YOUR_MODULES
-```
 Add your info to `.env`
 ```env
 DISCORD_TOKEN="YOUR_TOKEN_HERE"
